@@ -17,12 +17,19 @@ change?
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
-      when trying a new features or things under experiment 
+      when trying a new features or things under experiment
 
 How do the diagrams help you visualize the branch structure?
+
+      I helps me visualize the commit history and changes done to the branches
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+      It gives us a new branch that contains the changes and commits from the
+      parent branches
+
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
+
+      Automatic merging saves time but can have some conflicts
